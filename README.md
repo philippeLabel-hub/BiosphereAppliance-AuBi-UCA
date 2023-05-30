@@ -6,11 +6,14 @@ App ExDaAn-PS-UCA
 Description
 Available for students involved in the "Plant Science, Exploratory Data Analysis, Master 1 of University Clermont Auvergne".
 It's short name is **ExDaAn-PS-UCA**. 
+
 It includes:
+
 Rstudio-server
 Latex toolbox for pdf outputs
 
 Tools
+
 texlive
 texlive-base
 texlive-latex-extra

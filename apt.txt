@@ -1,14 +1,8 @@
 # List of operating system package dependencies: put one package per line.
 # Valid for Debian/Ubuntu only.
 
-# Deps of install.packages('adespatial')
-libglpk-dev
-libproj-dev
-libgdal-dev
-libudunits2-dev
+# Deps of install.packages()
 
-# Deps of BiocManager::install(c('dada2')
-libghc-bzlib-dev
+# Deps of BiocManager::install(c()
 
-# Deps of BiocManager::install(c('ANCOMBC')
-libgsl-dev
+# Deps of BiocManager::install()

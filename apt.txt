@@ -1,6 +1,11 @@
 # List of operating system package dependencies: put one package per line.
 # Valid for Debian/Ubuntu only.
 
+texlive-base
+texlive-latex-extra
+htop
+lbzip2
+
 # Deps of install.packages()
 
 # Deps of BiocManager::install(c()

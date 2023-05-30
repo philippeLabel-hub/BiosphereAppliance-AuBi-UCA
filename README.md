@@ -33,5 +33,5 @@ Philippe Label, UMR 547 PIAF UCA-INRAE
 
 App data
 
-Version 21.04
-OS : Ubuntu 20.04
+
+OS : Ubuntu 22.04

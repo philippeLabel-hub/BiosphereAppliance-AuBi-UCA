@@ -5,7 +5,7 @@ App ExDaAn-PS-UCA
 
 Description
 Available for students involved in the "Plant Science, Exploratory Data Analysis, Master 1 of University Clermont Auvergne".
-It's short name is **ExDaAn-PS-UCA**. 
+Its short name is **ExDaAn-PS-UCA**. 
 
 It includes:
 

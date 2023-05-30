@@ -16,3 +16,4 @@ RUN if [ -f "apt.txt" ]; then \
 RUN if [ -f "install.R" ]; then \
   Rscript install.R; \
   fi
+
